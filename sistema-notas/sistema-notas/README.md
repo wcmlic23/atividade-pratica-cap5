@@ -1,7 +1,7 @@
 # Refatoração de um sistema de notas
 
 ## Integrante
-- Wellington (trabalho individual)
+- Wellington Correa Monteiro
 
 ## Como compilar e executar
 
